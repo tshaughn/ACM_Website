@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/React-Website/static/css/main.e6072117.css",
+    "main.js": "/React-Website/static/js/main.e595429c.js",
+    "static/media/hackathonPic.jpg": "/React-Website/static/media/hackathonPic.20106686a6c679f0b420.jpg",
+    "static/media/SpeakerPic.jpg": "/React-Website/static/media/SpeakerPic.ce3c1df1b0185c49b061.jpg",
+    "static/media/Header_BG.mp4": "/React-Website/static/media/Header_BG.6ce145c4e7c1a28964a0.mp4",
+    "static/media/funPic.jpeg": "/React-Website/static/media/funPic.2f697da1a8bfacbed5d1.jpeg",
+    "static/media/icpcPic.jpeg": "/React-Website/static/media/icpcPic.0bc1911b3030f815d135.jpeg",
+    "static/media/instagramLogo.webp": "/React-Website/static/media/instagramLogo.e905e80e3d57cc2b32c7.webp",
+    "static/media/codeathonPic.jpg": "/React-Website/static/media/codeathonPic.cf93301deef87e25600b.jpg",
+    "static/media/vicePresidentPic.jpg": "/React-Website/static/media/vicePresidentPic.04185896770229963cec.jpg",
+    "static/media/logo.png": "/React-Website/static/media/logo.3f532efa29067cdf64f3.png",
+    "static/media/WorkshopPic.jpg": "/React-Website/static/media/WorkshopPic.7dafb7854a095d714cd9.jpg",
+    "static/media/presidentPic.png": "/React-Website/static/media/presidentPic.39d4a44be77186e8823b.png",
+    "static/media/discordLogo.webp": "/React-Website/static/media/discordLogo.e66897f0cf044727bb4a.webp",
+    "static/media/BlueLogo.png": "/React-Website/static/media/BlueLogo.4e3d4d2c3a057f212e2b.png",
+    "index.html": "/React-Website/index.html",
+    "main.e6072117.css.map": "/React-Website/static/css/main.e6072117.css.map",
+    "main.e595429c.js.map": "/React-Website/static/js/main.e595429c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6072117.css",
+    "static/js/main.e595429c.js"
+  ]
+}
