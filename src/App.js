@@ -1,11 +1,20 @@
 import React from 'react'
 
-import { Navbar } from './containers';
+import './App.css';
+import { Navbar, Header, Join, About, Meetings, Events, Team, Contact, Footer } from './containers';
 
 const App = () => {
   return (
     <div className='App'>
         <Navbar />
+        <Header />
+        <Join />
+        <About />
+        <Meetings />
+        <Events />
+        <Team />
+        <Contact />
+        <Footer />
     </div>
   )
 }
