@@ -16,7 +16,7 @@ const Join = () => {
     });
   });
   return (
-    <div className='acm__join section__padding'>
+    <div className='acm__join section__padding' id='Join'>
       <div className='acm__join-title'><p>Join Us!</p></div>
       <div className='acm__join-subtitle'><p>Become a member of ACM by joining our discord or following us on Instagram!</p></div>
       <div className='acm__join-social'>

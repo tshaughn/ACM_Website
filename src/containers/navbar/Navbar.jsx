@@ -28,10 +28,10 @@ const Navbar = () => {
             </div>
             {toggleMenu &&
             <div className='acm__navbar-menu_drop-down'>
-                <div><a href='#Join'>Join</a></div>
-                <div><a href='#About'>About</a></div>
-                <div><a href='#Team'>Team</a></div>
-                <div><a href='#Contact'>Contact</a></div>
+                <div><a href='#Join' onClick={() => setToggleMenu(false)}>Join</a></div>
+                <div><a href='#About' onClick={() => setToggleMenu(false)}>About</a></div>
+                <div><a href='#Team' onClick={() => setToggleMenu(false)}>Team</a></div>
+                <div><a href='#Contact' onClick={() => setToggleMenu(false)}>Contact</a></div>
                 <div className='acm__navbar-menu_close-container' onClick={() => setToggleMenu(false)}><RiCloseLine color="white" size={45}/></div>
             </div>
             }

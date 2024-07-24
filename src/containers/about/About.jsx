@@ -15,7 +15,7 @@ const About = () => {
         });
     });
     return (
-    <div className='acm__about section__padding'>
+    <div className='acm__about section__padding' id='About'>
         <div className='acm__about-top'>
             <p>About Our Organization</p>
             <p>{description}</p>

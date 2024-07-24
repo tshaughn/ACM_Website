@@ -63,7 +63,7 @@ const peoplePanels = [
 
 const Team = () => {
   return (
-    <div className='acm__team section__padding'>
+    <div className='acm__team section__padding' id='Team'>
         <div className='acm__team-title'>
             <p>The ACM Team</p>
         </div>

@@ -7,7 +7,7 @@ import './Contact.css';
 const Contact = () => {
   return (
     <div className='acm__contact section__padding'>
-        <div className='acm__contact-header'>
+        <div className='acm__contact-header' id='Contact'>
             <p>Contact Us</p>
             <p>Got questions or feedback about ACM? Let us know your thoughts.</p>
         </div>
