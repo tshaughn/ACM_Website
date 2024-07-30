@@ -9,7 +9,7 @@ const Navbar = () => {
     return (
         <nav className='acm__navbar'>
             <div className='acm__navbar-top'>
-                <a href="#home" className='acm__navbar-logo'>
+                <a href="#Home" className='acm__navbar-logo'>
                     <img src={logo} alt="logo" />
                 </a>
                 <div>

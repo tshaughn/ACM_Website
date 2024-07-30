@@ -21,9 +21,9 @@ const Join = () => {
       <div className='acm__join-subtitle'><p>Become a member of ACM by joining our discord or following us on Instagram!</p></div>
       <div className='acm__join-social'>
         <div className='acm__join-discord' data-aos="fade-left">
-          <div className='acm__join-discord_top'>
-            <p><a>Join Our Discord!</a></p>
-            <img src={discordLogo} alt='discord logo'/>
+          <div className='acm__join-discord_top' >
+            <p><a href='https://discord.gg/rnNyHyp7'>Join Our Discord!</a></p>
+            <a href='https://discord.gg/rnNyHyp7'><img src={discordLogo} alt='discord logo'/></a>
           </div>
           <div className='acm__join-discord_bottom'>
             <div className='acm__join-discord_bottom-sect'>
@@ -48,8 +48,8 @@ const Join = () => {
             </div>
           </div>
           <div className='acm__join-instagram_top'>
-            <p><a>Follow our Instagram!</a></p>
-            <img src={instagramLogo} alt='instagram logo'/>
+            <p><a href='https://www.instagram.com/uofscacm/'>Follow our Instagram!</a></p>
+            <a href='https://www.instagram.com/uofscacm/'><img src={instagramLogo} alt='instagram logo'/></a>
           </div>
         </div>
       </div>

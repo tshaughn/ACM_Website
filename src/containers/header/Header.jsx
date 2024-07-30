@@ -7,7 +7,7 @@ import Header_BG from '../../assets/Header_BG.mp4';
 const Header = () => {
   const welcomeMessage = "We're the ACM Chapter at the University of South Carolina.";
     return (
-    <div className='acm__header'>
+    <div className='acm__header' id='Home'>
         <div className='acm__header-welcome'>
             <video playsInline autoPlay loop muted className='acm__header-video'>
                 <source src={Header_BG} type="video/mp4"/>
