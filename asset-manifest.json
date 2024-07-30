@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/React-Website/static/css/main.49c34570.css",
-    "main.js": "/React-Website/static/js/main.31aef9f8.js",
+    "main.css": "/React-Website/static/css/main.3c0c2136.css",
+    "main.js": "/React-Website/static/js/main.0d78261c.js",
     "static/media/hackathonPic.jpg": "/React-Website/static/media/hackathonPic.20106686a6c679f0b420.jpg",
     "static/media/SpeakerPic.jpg": "/React-Website/static/media/SpeakerPic.ce3c1df1b0185c49b061.jpg",
     "static/media/Header_BG.mp4": "/React-Website/static/media/Header_BG.6ce145c4e7c1a28964a0.mp4",
@@ -16,11 +16,11 @@
     "static/media/discordLogo.webp": "/React-Website/static/media/discordLogo.e66897f0cf044727bb4a.webp",
     "static/media/BlueLogo.png": "/React-Website/static/media/BlueLogo.4e3d4d2c3a057f212e2b.png",
     "index.html": "/React-Website/index.html",
-    "main.49c34570.css.map": "/React-Website/static/css/main.49c34570.css.map",
-    "main.31aef9f8.js.map": "/React-Website/static/js/main.31aef9f8.js.map"
+    "main.3c0c2136.css.map": "/React-Website/static/css/main.3c0c2136.css.map",
+    "main.0d78261c.js.map": "/React-Website/static/js/main.0d78261c.js.map"
   },
   "entrypoints": [
-    "static/css/main.49c34570.css",
-    "static/js/main.31aef9f8.js"
+    "static/css/main.3c0c2136.css",
+    "static/js/main.0d78261c.js"
   ]
 }
